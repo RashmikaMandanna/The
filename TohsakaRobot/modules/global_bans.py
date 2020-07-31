@@ -184,7 +184,7 @@ def gban(bot: Bot, update: Update, args: List[str]):
     try:
         bot.send_message(
             user_id,
-            "You've been globally banned from all groups where I am admin. If this is a mistake, you can appeal your ban @GraveyardDwellers or PM @TheRealPhoenix",
+            "You've been globally banned from all groups where I am admin. If this is a mistake, you can appeal your ban **@ or PM **@",
             parse_mode=ParseMode.HTML,
         )
     except:
