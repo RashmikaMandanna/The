@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.6"
+            "version": "12.0"
          },
          "plan": "heroku-postgresql"
       }
@@ -33,11 +33,11 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "615304572"
+         "value": "760557538"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "TheRealPhoenix"
+         "value": "Unknown_Hacker_X"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -50,11 +50,11 @@
       },
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
-         "value": "615304572 745191358"
+         "value": "760557538"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
-         "value": "254318997 18673980 83489514"
+         "value": "760557538"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -72,7 +72,7 @@
       },
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
-         "value": "254318997 18673980 83489514"
+         "value": "760557538"
       }
    },
    "keywords": [
@@ -82,6 +82,6 @@
       "manager",
       "rin"
    ],
-   "name": "Rin",
+   "name": "Unknown",
    "repository": "https://github.com/Dank-del/TheRealTohskaBot"
 }
